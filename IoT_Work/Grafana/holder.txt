@@ -1,1 +1,2 @@
 root@pi3:/tmp/graf-build/src/github.com/grafana/grafana/dist#   1.1.1 located here
+https://github.com/fg2it/grafana-on-raspberry/tree/master/jessie --> give this guy the .deb file if he wants it
